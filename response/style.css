@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	background-color: #1b2a49;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+article{
+	
+	font-family: Helvetica;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 60px;
+	box-sizing: border-box;
+	
+}
+
+h1{
+	font-size: 500%;
+	color: #c9d1d3;	
+	ali
+}
+
+em{
+	color: dimgray;
+	
+}
+
+h2{
+	font-size: 200%;
+	color: #00909e;
+}
+
+p{
+	color: #465881;
+	
+}
+footer{
+	text-align: center;
+	color: darkturquoise;
+}
+
+h3{
+	padding-bottom: 30px;
+	text-align: center;
+}
